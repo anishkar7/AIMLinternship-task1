@@ -17,5 +17,5 @@ This notebook performs data cleaning and preprocessing on the Titanic dataset us
 Before running this notebook, ensure you have:
 
 - Python 3.6+  
-- Jupyter Notebook or Jupyter Lab installed  
+- Google Colab 
 - Titanic dataset file (`Titanic-Dataset.csv`)  
